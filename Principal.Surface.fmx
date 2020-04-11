@@ -1,0 +1,137 @@
+inherited FrmPrincipal_Surface: TFrmPrincipal_Surface
+  ClientHeight = 1920
+  ClientWidth = 1080
+  DesignerMasterStyle = 0
+  inherited Image1: TImage
+    MultiResBitmap.Height = 626
+    MultiResBitmap.Width = 626
+    Size.Width = 1080.000000000000000000
+    Size.Height = 1920.000000000000000000
+  end
+  inherited ToolBar1: TToolBar
+    Size.Width = 1080.000000000000000000
+    inherited Label1: TLabel
+      StyledSettings = [Family, Style, FontColor]
+      Size.Width = 1080.000000000000000000
+      TextSettings.Font.Size = 48.000000000000000000
+    end
+    inherited SpeedButton2: TSpeedButton
+      Position.X = 1032.000000000000000000
+    end
+    inherited SpeedButton1: TSpeedButton
+      Size.Width = 40.000000000000000000
+    end
+  end
+  inherited Layout1: TLayout
+    Size.Width = 1080.000000000000000000
+    Size.Height = 240.000000000000000000
+    inherited BtnDois: TSpeedButton
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      StyledSettings = [Family, Style, FontColor]
+      Size.Width = 200.000000000000000000
+      Size.Height = 240.000000000000000000
+      TextSettings.Font.Size = 72.000000000000000000
+    end
+    inherited BtnTrez: TSpeedButton
+      StyledSettings = [Family, Style, FontColor]
+      Position.X = 207.000000000000000000
+      Size.Width = 200.000000000000000000
+      Size.Height = 240.000000000000000000
+      TextSettings.Font.Size = 72.000000000000000000
+    end
+    inherited BtnQuatro: TSpeedButton
+      StyledSettings = [Family, Style, FontColor]
+      Position.X = 409.000000000000000000
+      Size.Width = 200.000000000000000000
+      Size.Height = 240.000000000000000000
+      TextSettings.Font.Size = 72.000000000000000000
+    end
+    inherited BtnCinco: TSpeedButton
+      StyledSettings = [Family, Style, FontColor]
+      Position.X = 611.000000000000000000
+      Size.Width = 200.000000000000000000
+      Size.Height = 240.000000000000000000
+      TextSettings.Font.Size = 72.000000000000000000
+    end
+    inherited BtnSeis: TSpeedButton
+      StyledSettings = [Family, Style, FontColor]
+      Position.X = 813.000000000000000000
+      Size.Width = 200.000000000000000000
+      Size.Height = 240.000000000000000000
+      TextSettings.Font.Size = 72.000000000000000000
+    end
+  end
+  inherited Layout2: TLayout
+    Position.Y = 403.000000000000000000
+    Size.Width = 1080.000000000000000000
+    Size.Height = 240.000000000000000000
+    inherited BtnSete: TSpeedButton
+      StyledSettings = [Family, Style, FontColor]
+      Margins.Left = 200.000000000000000000
+      Position.X = 200.000000000000000000
+      Size.Width = 200.000000000000000000
+      Size.Height = 240.000000000000000000
+      TextSettings.Font.Size = 72.000000000000000000
+    end
+    inherited BtnOito: TSpeedButton
+      StyledSettings = [Family, Style, FontColor]
+      Position.X = 402.000000000000000000
+      Size.Width = 200.000000000000000000
+      Size.Height = 240.000000000000000000
+      TextSettings.Font.Size = 72.000000000000000000
+    end
+    inherited BtnNove: TSpeedButton
+      StyledSettings = [Family, Style, FontColor]
+      Position.X = 604.000000000000000000
+      Size.Width = 200.000000000000000000
+      Size.Height = 240.000000000000000000
+      TextSettings.Font.Size = 72.000000000000000000
+    end
+  end
+  inherited Layout3: TLayout
+    Position.Y = 653.000000000000000000
+    Size.Width = 1080.000000000000000000
+    Size.Height = 240.000000000000000000
+    inherited BtnDez: TSpeedButton
+      StyledSettings = [Family, Style, FontColor]
+      Size.Width = 200.000000000000000000
+      Size.Height = 240.000000000000000000
+      TextSettings.Font.Size = 72.000000000000000000
+    end
+    inherited BtnJ: TSpeedButton
+      StyledSettings = [Family, Style, FontColor]
+      Position.X = 207.000000000000000000
+      Size.Width = 200.000000000000000000
+      Size.Height = 240.000000000000000000
+      TextSettings.Font.Size = 72.000000000000000000
+    end
+    inherited BtnQ: TSpeedButton
+      StyledSettings = [Family, Style, FontColor]
+      Position.X = 409.000000000000000000
+      Size.Width = 200.000000000000000000
+      Size.Height = 240.000000000000000000
+      TextSettings.Font.Size = 72.000000000000000000
+    end
+    inherited BtnK: TSpeedButton
+      StyledSettings = [Family, Style, FontColor]
+      Position.X = 611.000000000000000000
+      Size.Width = 200.000000000000000000
+      Size.Height = 240.000000000000000000
+      TextSettings.Font.Size = 72.000000000000000000
+    end
+    inherited BtnA: TSpeedButton
+      StyledSettings = [Family, Style, FontColor]
+      Position.X = 813.000000000000000000
+      Size.Width = 200.000000000000000000
+      Size.Height = 240.000000000000000000
+      TextSettings.Font.Size = 72.000000000000000000
+    end
+  end
+  inherited Layout4: TLayout
+    Size.Width = 1080.000000000000000000
+  end
+  inherited Label2: TLabel
+    Position.Y = 1864.000000000000000000
+    Size.Width = 1080.000000000000000000
+  end
+end

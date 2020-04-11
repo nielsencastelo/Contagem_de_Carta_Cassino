@@ -1,0 +1,94 @@
+inherited FrmPrincipal_LgXhdpiTb: TFrmPrincipal_LgXhdpiTb
+  ClientHeight = 455
+  ClientWidth = 854
+  DesignerMasterStyle = 0
+  inherited Image1: TImage
+    MultiResBitmap.Height = 626
+    MultiResBitmap.Width = 626
+    Size.Width = 854.000000000000000000
+    Size.Height = 455.000000000000000000
+  end
+  inherited StatusBar1: TStatusBar
+    Position.Y = 415.000000000000000000
+    Size.Width = 854.000000000000000000
+    inherited Edit1: TEdit
+      Size.Width = 854.000000000000000000
+    end
+  end
+  inherited ToolBar1: TToolBar
+    Size.Width = 854.000000000000000000
+    inherited Label1: TLabel
+      Size.Width = 854.000000000000000000
+    end
+  end
+  inherited Layout1: TLayout
+    Size.Width = 854.000000000000000000
+    inherited BtnDois: TSpeedButton
+      Align = None
+      Position.Y = 8.000000000000000000
+      Size.Height = 42.000000000000000000
+    end
+    inherited BtnTrez: TSpeedButton
+      Align = None
+      Position.Y = 16.000000000000000000
+      Size.Height = 42.000000000000000000
+    end
+    inherited BtnQuatro: TSpeedButton
+      Align = None
+      Position.Y = 16.000000000000000000
+      Size.Height = 42.000000000000000000
+    end
+    inherited BtnCinco: TSpeedButton
+      Align = None
+      Position.Y = 16.000000000000000000
+      Size.Height = 42.000000000000000000
+    end
+    inherited BtnSeis: TSpeedButton
+      Align = None
+      Position.X = 281.000000000000000000
+      Position.Y = 16.000000000000000000
+      Size.Height = 42.000000000000000000
+    end
+  end
+  inherited Layout2: TLayout
+    Size.Width = 854.000000000000000000
+    inherited BtnSete: TSpeedButton
+      Position.Y = 16.000000000000000000
+      Size.Height = 42.000000000000000000
+    end
+    inherited BtnOito: TSpeedButton
+      Position.Y = 16.000000000000000000
+      Size.Height = 42.000000000000000000
+    end
+    inherited BtnNove: TSpeedButton
+      Position.Y = 16.000000000000000000
+      Size.Height = 42.000000000000000000
+    end
+  end
+  inherited Layout3: TLayout
+    Size.Width = 854.000000000000000000
+    inherited BtnDez: TSpeedButton
+      Position.Y = 16.000000000000000000
+      Size.Height = 42.000000000000000000
+    end
+    inherited BtnJ: TSpeedButton
+      Position.Y = 16.000000000000000000
+      Size.Height = 42.000000000000000000
+    end
+    inherited BtnQ: TSpeedButton
+      Position.Y = 16.000000000000000000
+      Size.Height = 42.000000000000000000
+    end
+    inherited BtnK: TSpeedButton
+      Position.Y = 16.000000000000000000
+      Size.Height = 42.000000000000000000
+    end
+    inherited BtnA: TSpeedButton
+      Position.Y = 16.000000000000000000
+      Size.Height = 42.000000000000000000
+    end
+  end
+  inherited Layout4: TLayout
+    Size.Width = 854.000000000000000000
+  end
+end
